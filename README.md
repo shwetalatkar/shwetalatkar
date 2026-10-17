@@ -1,6 +1,12 @@
-Hi, I'm Shweta Latkar 👋
-💻 MERN Stack Developer | React.js | Next.js | React Native | Node.js
+<div align="center">
+<h2>👋 Hey there, I'm Shweta!</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=700&color=C084FC&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer+%F0%9F%92%BB;Building+cool+things+with+React+%E2%9C%A8;Dream.+Code.+Repeat.+%F0%9F%92%9C" alt="Typing animation" />
+</div>
+<p align="center">
 
+  💻 MERN  Stack Developer • 🚀 Problem Solver • ✨ Lifelong Learner
+
+</p> 
 I'm a MERN Stack Developer with nearly 5 years of experience building modern, scalable, and responsive web and mobile applications across e-commerce, enterprise business systems, and logistics solutions.
 
 🚀 About Me
